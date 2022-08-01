@@ -4,4 +4,5 @@ Nu mi a luat decat o saptamana sa fac gitul asta
 
 ```c
 int response = E_OK;
+int response_negative = E_NOT_OK;
 ```
