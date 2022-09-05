@@ -1,8 +1,3 @@
 # Automated-Music-Sheet-Reader
-Sincer nu am alt nume mai bun, se intelege ideea 
-Nu mi a luat decat o saptamana sa fac gitul asta 
 
-```
-int response = E_OK;
-int response_negative = E_NOT_OK;
-```
+An automated software that can read music sheets and give feedback on the player's technique and accuracy in real time. Our goal is to help users interpret complex scores or learn the basics without the help of a teacher, with fully customizable features.
